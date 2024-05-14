@@ -29,8 +29,8 @@ You are required to:
 #### Functionality:
 
 1. **Data Parsing**:
-   - Read data from the provided TXT file. Extract URL and homepage flag values.
-   - Process the list of keywords from the TXT file.
+   - Read the URLs from the `urls-dev-test.txt` file and scrape them.
+   - Process the list of keywords in the `keywords-dev-test.txt` file against the URLs.
 
 2. **Web Scraping**:
    - Implement logic to scrape web pages in the TXT.
